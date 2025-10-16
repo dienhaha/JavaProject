@@ -1,0 +1,7 @@
+6. Write a program that computes the total ticket sales of a concert. There are
+three types of seating's: A, B, and C. The program accepts the number of
+tickets sold and the price of a ticket for each of the three types of seats. The
+total sales are computed as follows:
+        totalSales = numberOfA_Seats * pricePerA_Seat +
+                     numberOfB_Seats * pricePerB_Seat +
+                     numberOfC_Seats * pricePerC_Seat;

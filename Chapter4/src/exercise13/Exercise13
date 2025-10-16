@@ -1,0 +1,2 @@
+13. Redo Exercise 9 by using a Seat class. An instance of the Seat class keeps
+    track of the ticket price for a given type of seat (A, B, or C).

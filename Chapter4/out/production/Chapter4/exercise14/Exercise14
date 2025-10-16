@@ -1,0 +1,11 @@
+14. Write a WeightConverter class. An instance of this class is created by
+    passing the gravity of an object relative to the Earth’s gravity (see
+    Exercise 16 on page 144). For example, the Moon’s gravity is
+    approximately 0.167 of the Earth’s gravity, so we create a
+    WeightConverter instance for the Moon as
+    WeightConverter moonWeight;
+    moonWeight = new WeightConverter( 0.167 );
+    To compute how much you weigh on the Moon, you pass your weight on
+    Earth to the convert method as
+    yourMoonWeight = moonWeight.convert( 160 );
+    Use this class and redo Exercise 16 on page 144.

@@ -1,0 +1,5 @@
+16. Write a program that accepts the unit weight of a bag of coffee in pounds
+and the number of bags sold and displays the total price of the sale,
+computed as follows:
+        totalPrice = bagWeight * numberOfBags * pricePerLb;
+        totalPriceWithTax = totalPrice + totalPrice * taxRate;

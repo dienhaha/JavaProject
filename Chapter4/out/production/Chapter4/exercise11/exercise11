@@ -1,0 +1,14 @@
+11. Extend the LibraryCard class by adding the expiration date as a new property
+of a library card. Define the following four methods:
+
+    //sets the expiration date
+    public void setExpDate(GregorianCalendar date) {...}
+
+    //returns the expiration year
+    public int getExpYear( ) { ... }
+
+    //returns the expiration month
+    public int getExpMonth( ) { ... }
+
+    //returns the expiration day
+    public int getExpDay( ) { ... }
